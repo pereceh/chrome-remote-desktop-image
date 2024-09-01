@@ -28,7 +28,7 @@ RUN apt-get install --assume-yes firefox
 ARG USER=myuser
 # use 6 digits at least
 ENV PIN=123456
-ENV CODE=4/xxx
+ENV CODE=4/0AQlEd8wBX_MCHs5y0yxTjK2tQ77KnEC2F55NW1nW164ruBuB5yXxWnf6h7WnusZHRSN01g
 ENV HOSTNAME=myvirtualdesktop
 # ---------------------------------------------------------- 
 # ADD USER TO THE SPECIFIED GROUPS
